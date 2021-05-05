@@ -1,4 +1,3 @@
-
 const log = require('hexo-log')({ debug: false, silent: false });
 const { magenta, green } = require('chalk');
 const Webmention = require('@remy/webmention/lib/webmention');

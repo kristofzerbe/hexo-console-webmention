@@ -1,3 +1,7 @@
+![GitHub package.json version](https://img.shields.io/github/package-json/v/kristofzerbe/hexo-console-webmention?label=version&style=flat-square)
+![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-console-webmention?label=github%20issues&style=flat-square)
+![npm](https://img.shields.io/npm/dm/hexo-console-webmention?label=npm%20downloads&style=flat-square)
+
 # hexo-console-webmention
 
 **Sending Webmentions for posts within Hexo**
