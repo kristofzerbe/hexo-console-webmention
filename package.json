@@ -1,0 +1,27 @@
+{
+  "name": "hexo-console-webmention",
+  "version": "1.0.0",
+  "description": "Sending Webmentions for posts within Hexo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristofzerbe/hexo-console-webmention.git"
+  },
+  "keywords": [
+    "hexo",
+    "webmention",
+    "console"
+  ],
+  "author": "Kristof Zerbe <kristof.zerbe@gmail.com> (https://kiko.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristofzerbe/hexo-console-webmention/issues"
+  },
+  "homepage": "https://github.com/kristofzerbe/hexo-console-webmention#readme",
+  "deprecated": false,
+  "dependencies": {
+    "@remy/webmention": "^1.4.5",
+    "hexo-log": "^2.0.0",
+    "chalk": "^1.1.1"
+  }
+}
