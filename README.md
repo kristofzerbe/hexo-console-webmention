@@ -1,6 +1,7 @@
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/kristofzerbe/hexo-console-webmention?label=version&style=flat-square)](https://github.com/kristofzerbe/hexo-console-webmention/blob/main/package.json)
 [![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-console-webmention?label=github%20issues&style=flat-square)](https://github.com/kristofzerbe/hexo-console-webmention/issues)
 [![npm](https://img.shields.io/npm/dm/hexo-console-webmention?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/hexo-console-webmention)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/kristofzerbe/hexo-console-webmention)
 
 [![Open Source Insights](https://kiko.io/images/insights-logo.png)](https://deps.dev/npm/hexo-console-webmention)
 
